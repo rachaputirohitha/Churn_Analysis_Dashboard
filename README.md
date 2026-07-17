@@ -5,7 +5,7 @@
 This project is an end-to-end **Customer Churn Analysis Dashboard** developed using **SQL Server** and **Power BI**. It focuses on cleaning, transforming, and analyzing customer data to uncover churn trends and deliver actionable business insights through interactive visualizations and KPIs.
 
 ## Dataset Used
-- <a href="C:\Users\User\OneDrive\Documents">Churn Data</a>
+[Customer_Data.csv](Customer_Data.csv)
 
 ## Project Objectives
 
