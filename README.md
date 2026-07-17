@@ -21,7 +21,6 @@ This project is an end-to-end **Customer Churn Analysis Dashboard** developed us
 * Power Query
 * DAX
 
-
 ##  Key Performance Indicators (KPIs)
 
 * Total Customers
@@ -37,7 +36,6 @@ This project is an end-to-end **Customer Churn Analysis Dashboard** developed us
 4. Build an interactive Power BI dashboard.
 5. Generate business insights from customer churn analysis.
 
-
 ##  Business Insights
 
 * Identify customer churn trends.
@@ -46,10 +44,10 @@ This project is an end-to-end **Customer Churn Analysis Dashboard** developed us
 * Support business decisions with interactive dashboards.
 
 ## Dashboard Interaction
-
+<a href="https://github.com/rachaputirohitha/Churn_Analysis_Dashboard/blob/main/Screenshot%20(185).png">View Dashboard</a>
 
 ##  Conclusion
-
 This project demonstrates the use of **SQL Server** and **Power BI** to transform raw customer data into meaningful insights. The dashboard provides a comprehensive view of customer churn, helping businesses monitor performance and make informed, data-driven decisions.
 
+## Dashboard
 
