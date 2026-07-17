@@ -45,6 +45,9 @@ This project is an end-to-end **Customer Churn Analysis Dashboard** developed us
 * Monitor customer retention using key performance metrics.
 * Support business decisions with interactive dashboards.
 
+## Dashboard Interaction
+
+
 ##  Conclusion
 
 This project demonstrates the use of **SQL Server** and **Power BI** to transform raw customer data into meaningful insights. The dashboard provides a comprehensive view of customer churn, helping businesses monitor performance and make informed, data-driven decisions.
